@@ -1,0 +1,42 @@
+/* General page styling */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+/* Header styling */
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #0f0211;
+    color: white;
+}
+
+/* Styling for course section */
+section {
+    padding: 20px;
+}
+
+.course {
+    display: inline-block;
+    margin: 20px;
+    width: 300px;
+    text-align: center;
+}
+
+.course img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.0);
+}
+
+/* Footer styling */
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+}
